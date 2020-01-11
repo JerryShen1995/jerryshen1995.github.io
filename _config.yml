@@ -83,10 +83,10 @@ author:
   name             : "Jerry Shen"
   avatar           : "profile.png"
   bio              : "USC MPP Student"
-  location         : "Location"
+  location         : "University of Southern California"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=fL8Pfb4AAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

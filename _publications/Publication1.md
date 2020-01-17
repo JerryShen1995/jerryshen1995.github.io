@@ -3,7 +3,7 @@ title: "PAGANDA: An Adaptive Task-Independent Automatic Data Augmentation"
 collection: publications
 permalink: /publications/paganda
 venue: "ICML Workshop on Adaptive & Multitask Learning"
-excerpt: 'ICML Workshop on Adaptive & Multitask Learning, 2019'
+excerpt: 'Data augmentation and computer vision'
 date: 2019-06-18
 paperurl: https://openreview.net/pdf?id=S1xKEqrs3E
 ---

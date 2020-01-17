@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/paganda
 venue: "Journal 1"
 excerpt: 'ICML Workshop on Adaptive & Multitask Learning, 2019'
-date: 2019
+date: 2019-06-18
 paperurl: https://openreview.net/pdf?id=S1xKEqrs3E
 ---
 
